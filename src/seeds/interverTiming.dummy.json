@@ -1,0 +1,47 @@
+[
+  {
+    "administrationID": 22,
+    "googleMapsLink": "https://goo.gl/maps/RnPBba1AbzVWZC1h7",
+    "locationName": "Kingdom Tower",
+    "startDateTime": "08/05/2021 08:00:00",
+    "endDateTime": "08/05/2021 12:00:00",
+    "maxCandidatesCapacity": 300,
+    "currentCandidatesCount": 0
+  },
+  {
+    "administrationID": 12,
+    "googleMapsLink": "https://goo.gl/maps/RnPBba1AbzVWZC1h7",
+    "locationName": "Location 2",
+    "startDateTime": "08/06/2021 08:00:00",
+    "endDateTime": "08/06/2021 12:00:00",
+    "maxCandidatesCapacity": 200,
+    "currentCandidatesCount": 0
+  },
+  {
+    "administrationID": 45,
+    "googleMapsLink": "https://goo.gl/maps/RnPBba1AbzVWZC1h7",
+    "locationName": "Faisaliah Tower",
+    "startDateTime": "08/07/2021 08:00:00",
+    "endDateTime": "08/07/2021 12:00:00",
+    "maxCandidatesCapacity": 150,
+    "currentCandidatesCount": 0
+  },
+  {
+    "administrationID": 1,
+    "googleMapsLink": "https://goo.gl/maps/RnPBba1AbzVWZC1h7",
+    "locationName": "Location 4",
+    "startDateTime": "08/08/2021 08:00:00",
+    "endDateTime": "08/08/2021 12:00:00",
+    "maxCandidatesCapacity": 300,
+    "currentCandidatesCount": 0
+  },
+  {
+    "administrationID": 6,
+    "googleMapsLink": "https://goo.gl/maps/RnPBba1AbzVWZC1h7",
+    "locationName": "King Saud University",
+    "startDateTime": "08/09/2021 08:00:00",
+    "endDateTime": "08/09/2021 12:00:00",
+    "maxCandidatesCapacity": 80,
+    "currentCandidatesCount": 0
+  }
+]

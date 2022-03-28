@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "name": "الافلاج ( الافلاج )",
+    "name_en": "Aflaj (Aflaj)",
+    "administrationId": 1,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 2,
+    "name": "هجر الدلم  ( الخرج )",
+    "name_en": "Hajr Al-Dalam (Al-Kharj)",
+    "administrationId": 2,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 3,
+    "name": "البجادية  ( الدوادمي )",
+    "name_en": "Badia (Dawadmi)",
+    "administrationId": 3,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 4,
+    "name": "ضرية (الرس)",
+    "name_en": "Dhariah (Al Rass)",
+    "administrationId": 4,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 5,
+    "name": "الثوير والبعيثة وأم الشيح( الزلفي )",
+    "name_en": "Al-Thuwair, Al-Baitha and Umm Al-Sheeh (Al-Zulfi)",
+    "administrationId": 5,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 6,
+    "name": "العلا (العلا)",
+    "name_en": "Al-Ula (Al-Ula)",
+    "administrationId": 6,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 7,
+    "name": "القريات (القريات)",
+    "name_en": "Qurayyat (Qurayyat)",
+    "administrationId": 7,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 8,
+    "name": "العرضية الجنوبية (القنفذة)",
+    "name_en": "Southern Ardhyyah (Al-Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 9,
+    "name": "العرضية الشمالية (القنفذة)",
+    "name_en": "Northern Ardhyyah (Al-Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 10,
+    "name": "القنفذة وبني زيد (القنفذة)",
+    "name_en": "Al-Qunfudhah and Bani Zaid (Al-Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 11,
+    "name": "القوز (القنفذة)",
+    "name_en": "Al Quz (Al Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 12,
+    "name": "المظيلف (القنفذة)",
+    "name_en": "Al Muzaylif (Al Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 13,
+    "name": "حرب وبني عيسى (القنفذة)",
+    "name_en": "Harb and Bani Issa (Al-Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 14,
+    "name": "حلي وكنانة (القنفذة)",
+    "name_en": "Hali and Kenana (Al Qunfudhah)",
+    "administrationId": 8,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 15,
+    "name": "الحصاة (القويعية)",
+    "name_en": "Al-Hasaah",
+    "administrationId": 9,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 16,
+    "name": "الرويضة (القويعية)",
+    "name_en": "Al-Ruwaidah (Al-Quway'iyah)",
+    "administrationId": 9,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 17,
+    "name": "حلبان والخاصرة (القويعية)",
+    "name_en": "Halaban and Al-Khasira (Al-Quway'iyah)",
+    "administrationId": 9,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 18,
+    "name": "أضم (الليث)",
+    "name_en": "Adham (Laith)",
+    "administrationId": 10,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 19,
+    "name": "الليث (الليث)",
+    "name_en": "Al-Laith (Al-Laith)",
+    "administrationId": 10,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 20,
+    "name": "سوق العين (الليث)",
+    "name_en": "Al Ain Market (Al Lith)",
+    "administrationId": 10,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 21,
+    "name": "جنوب المحافظة (المجمعة )",
+    "name_en": "Southern Governorate (Al Majmaah)",
+    "administrationId": 11,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 22,
+    "name": "شرق المحافظة ( المجمعة )",
+    "name_en": "Eastern Governorate (Al Majmaah)",
+    "administrationId": 11,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 23,
+    "name": "شمال المحافظة (المجمعة )",
+    "name_en": "North Governorate (Al Majmaah)",
+    "administrationId": 11,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 24,
+    "name": "الحجرة ( المخواة )",
+    "name_en": "Al-Hojrah",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 25,
+    "name": "الرميضة ( المخواة )",
+    "name_en": "Al-Rumaida (Al-Makhwah)",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 26,
+    "name": "الشعراء ( المخواة )",
+    "name_en": "Al-Shoaraa (Makhwah)",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 27,
+    "name": "المخواة ( المخواة )",
+    "name_en": "Al-Makhwah (Al-Makhwah)",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 28,
+    "name": "غامد الزناد ( المخواة )",
+    "name_en": "Ghamid Alzanaad",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 29,
+    "name": "قلوة ( المخواة )",
+    "name_en": "Almakhwah (Almakhwah)",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 30,
+    "name": "ناون والساحل ( المخواة )",
+    "name_en": "Naun and Sahel (Al-Makhwah)",
+    "administrationId": 12,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 31,
+    "name": "المهد (المهد)",
+    "name_en": "Al-Mahd (Al-Mahd)",
+    "administrationId": 13,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 32,
+    "name": "ثرب (المهد)",
+    "name_en": "Tharb (Al-Mahd)",
+    "administrationId": 13,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 33,
+    "name": "تنومه (النماص)",
+    "name_en": "Tanomah (Al-Namas)",
+    "administrationId": 14,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 34,
+    "name": "الأمواه ( بيشة )",
+    "name_en": "Umwah (Bishah)",
+    "administrationId": 15,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 35,
+    "name": "البشائر ( بيشة )",
+    "name_en": "Al-Bashaer (Bishah)",
+    "administrationId": 15,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 36,
+    "name": "بلقرن ( بيشة )",
+    "name_en": "Balqrn (Bishah)",
+    "administrationId": 15,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 37,
+    "name": "تثليث ( بيشة )",
+    "name_en": "Tathleeth (Bishah)",
+    "administrationId": 15,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 38,
+    "name": "خيبر الجنوب ( بيشة )",
+    "name_en": "Southern Khyber (Bishah)",
+    "administrationId": 15,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 39,
+    "name": "الذيبية والمدينة العسكرية ( حفر الباطن )",
+    "name_en": "Dhibia and the Military City (Hafr Al-Batin)",
+    "administrationId": 16,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 40,
+    "name": "الرقعي (حفر الباطن)",
+    "name_en": "Al-Raqi (Hafar Al-Batin)",
+    "administrationId": 16,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 41,
+    "name": "السعيرة وخبيراء (حفر الباطن)ـ",
+    "name_en": "Al-Sa’ira and Experts (Hafar Al-Batin)",
+    "administrationId": 16,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 42,
+    "name": "السوبان (حفر الباطن)",
+    "name_en": "Suban (Hafar Al-Batin)",
+    "administrationId": 16,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 43,
+    "name": "القلت (حفر الباطن)",
+    "name_en": "Qilt (Hafar Al-Batin)",
+    "administrationId": 16,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 44,
+    "name": "الحبيل (رجال المع )",
+    "name_en": "Al-Habil (Rijal Al-Ma’a)",
+    "administrationId": 17,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 45,
+    "name": "الحريضة (رجال المع )",
+    "name_en": "Al Harida (Rijal Almaa)",
+    "administrationId": 17,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 46,
+    "name": "حسوة (رجال المع )",
+    "name_en": "Haswa (Rijal Almaa)",
+    "administrationId": 17,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 47,
+    "name": "رجال المع (رجال المع )",
+    "name_en": "Rijal Almaa (Rijal Almaa)",
+    "administrationId": 17,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 48,
+    "name": "تهامة (سراة عبيدة)",
+    "name_en": "Tihama (Sarat Ubaida)",
+    "administrationId": 18,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 49,
+    "name": "سراة عبيدة ( سراة عبيدة )",
+    "name_en": "Sarat Ubaidah ( Sarat Ubaidah )",
+    "administrationId": 18,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 50,
+    "name": "تماني والمنخلي",
+    "name_en": "Tamani and Al-Makhli",
+    "administrationId": 19,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 51,
+    "name": "شرورة (شرورة)",
+    "name_en": "Sharurah (Sharura)",
+    "administrationId": 19,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 52,
+    "name": "الداير بني مالك ( صبيا )",
+    "name_en": "Al-Dayer Bani Malik (Sabiya)",
+    "administrationId": 20,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 53,
+    "name": "الدرب ( صبيا )",
+    "name_en": "Al-Darb (Sabiya)",
+    "administrationId": 20,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 54,
+    "name": "العيدابي وهروب ( صبيا )",
+    "name_en": "Al-Aidabi and Ehrop (Sabiya)",
+    "administrationId": 20,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 55,
+    "name": "بيش والريث ( صبيا )",
+    "name_en": "Bish and the Wraith (Sabiya)",
+    "administrationId": 20,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 56,
+    "name": "فيفا  ( صبيا )",
+    "name_en": "Fefa (Sabiya)",
+    "administrationId": 20,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 57,
+    "name": "الحرجة ( ظهران الجنوب )",
+    "name_en": "Al-Harajah (Dhahran Al-Janoub)",
+    "administrationId": 21,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 58,
+    "name": "تهامة ظهران الجنوب ( ظهران الجنوب )",
+    "name_en": "Tihama Dhahran Al Janoub (Dhahran Al Janoob)",
+    "administrationId": 21,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 59,
+    "name": "الساحل  (محايل عسير)",
+    "name_en": "Al Sahel (Mahail Aseer)",
+    "administrationId": 22,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 60,
+    "name": "المجاردة وثربان (محايل عسير)",
+    "name_en": "Al-Majardah and Turban (Mahail Aseer)",
+    "administrationId": 22,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 61,
+    "name": "بارق والثلوث وربيعة ( محايل عسير )",
+    "name_en": "Bariq, Thaluth and Rabi’a (Mahail Aseer)",
+    "administrationId": 22,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 62,
+    "name": "بحر ابوسكينة (محايل عسير)",
+    "name_en": "Bahr Abu Sakina (Mahail Aseer)",
+    "administrationId": 22,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 63,
+    "name": "قنا (محايل عسير)",
+    "name_en": "Qena (Mahail Aseer)",
+    "administrationId": 22,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 64,
+    "name": "محايل (محايل عسير)",
+    "name_en": "Mahayel (Mahail Aseer)",
+    "administrationId": 22,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 65,
+    "name": "وادي الدواسر ( وادي الدواسر )",
+    "name_en": "Wadi Al-Dawasir (Wadi Al-Dawasir)",
+    "administrationId": 23,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 66,
+    "name": "العيص (ينبع)",
+    "name_en": "Al-Ais (Yanbu)",
+    "administrationId": 24,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 67,
+    "name": "المارمية (ينبع)",
+    "name_en": "Al-Aees (Yanbu)",
+    "administrationId": 24,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 68,
+    "name": "خمال (ينبع)",
+    "name_en": "Khamal (Yanbu)",
+    "administrationId": 24,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 69,
+    "name": "رخو (ينبع)",
+    "name_en": "Rakho (Yanbu)",
+    "administrationId": 24,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 70,
+    "name": "ينبع البحر (ينبع)",
+    "name_en": "Yanbu al Bahr (Yanbu)",
+    "administrationId": 24,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 71,
+    "name": "ينبع النخل (ينبع)",
+    "name_en": "Yanbu Al Nakhl (Yanbu)",
+    "administrationId": 24,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 72,
+    "name": "الحوطة ( الحوطة والحريق )",
+    "name_en": "Al-Houta (Al-Houta and Al-Hareq)",
+    "administrationId": 25,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 73,
+    "name": "الربوة ( الحوطة والحريق )",
+    "name_en": "Rabwah (Al-Hotah and Al-Hareq)",
+    "administrationId": 25,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 74,
+    "name": "وادي برك ( الحوطة والحريق )",
+    "name_en": "Wadi Barak (Al-Houta and Al-Hareq)",
+    "administrationId": 25,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 75,
+    "name": "البطحاء (الشرقية)",
+    "name_en": "Batha (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 76,
+    "name": "الجبيل ( الشرقية )",
+    "name_en": "Jubail (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 77,
+    "name": "الخبر ( الشرقية )",
+    "name_en": "Khobar (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 78,
+    "name": "الخفجي ( الشرقية )",
+    "name_en": "Khafji (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 79,
+    "name": "الدمام ( الشرقية )",
+    "name_en": "Dammam (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 80,
+    "name": "الرفيعة ( الشرقية )",
+    "name_en": "Rafeea (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 81,
+    "name": "الصرار ( الشرقية )",
+    "name_en": "Al-Sarrar (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 82,
+    "name": "القطيف ( الشرقية )",
+    "name_en": "Qatif (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 83,
+    "name": "النعيرية ( الشرقية )",
+    "name_en": "Nairiyah (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 84,
+    "name": "بقيق ( الشرقية )",
+    "name_en": "Abqaiq (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 85,
+    "name": "راس تنورة ( الشرقية )",
+    "name_en": "Ras Tanura (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 86,
+    "name": "قرية العليا ( الشرقية )",
+    "name_en": "Olaya Village (Eastern)",
+    "administrationId": 26,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 87,
+    "name": "قطاع الاحساء (الاحساء)",
+    "name_en": "Al-Ahsa Sector (Al-Ahsa)",
+    "administrationId": 27,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 88,
+    "name": "الخرمة (الطائف)",
+    "name_en": "Al Khurma (Taif)",
+    "administrationId": 28,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 89,
+    "name": "العشيرة (الطائف)",
+    "name_en": "Al-Asheerah (Taif)",
+    "administrationId": 28,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 90,
+    "name": "تربة (الطائف)",
+    "name_en": "Turbah (Taif)",
+    "administrationId": 28,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 91,
+    "name": "جنوب شرق ( الطائف )",
+    "name_en": "Southeast (Taif)",
+    "administrationId": 28,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 92,
+    "name": "رنية (الطائف)",
+    "name_en": "Rania (Taif)",
+    "administrationId": 28,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 93,
+    "name": "البرزة ( جدة )",
+    "name_en": "Al Barza (Jeddah)",
+    "administrationId": 29,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 94,
+    "name": "جدة ( جدة )",
+    "name_en": "Jeddah (Jeddah)",
+    "administrationId": 29,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 95,
+    "name": "حجر ( جدة )",
+    "name_en": "Hajar (Jeddah)",
+    "administrationId": 29,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 96,
+    "name": "رابغ ( جدة )",
+    "name_en": "Rabigh (Jeddah)",
+    "administrationId": 29,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 97,
+    "name": "العقيق وجرب وكرا (الباحة)",
+    "name_en": "Al-Aqeeq, Scab and Wakra (Al Baha)",
+    "administrationId": 30,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 98,
+    "name": "الشقيق (الجوف)",
+    "name_en": "Brother (Al-Jouf)",
+    "administrationId": 31,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 99,
+    "name": "طبرجل (الجوف)",
+    "name_en": "Tabarjal (Al-Jouf)",
+    "administrationId": 31,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 100,
+    "name": "طلعة عمار (الجوف)",
+    "name_en": "Talaat Ammar (Al-Jawf)",
+    "administrationId": 31,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 101,
+    "name": "عذفاء (الجوف)",
+    "name_en": "Adfa (Al-Jawf)",
+    "administrationId": 31,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 102,
+    "name": "العويقيلة (الحدود الشمالية)",
+    "name_en": "Al-Awaqilah (Northern Border)",
+    "administrationId": 32,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 103,
+    "name": "رفحاء (الحدود الشمالية)",
+    "name_en": "Rafha (Northern Border)",
+    "administrationId": 32,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 104,
+    "name": "طريف (الحدود الشمالية)",
+    "name_en": "Turaif (Northern Border)",
+    "administrationId": 32,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 105,
+    "name": "عرعر (الحدود الشمالية)",
+    "name_en": "Arar (Northern Border)",
+    "administrationId": 32,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 106,
+    "name": "النبهانية (القصيم)",
+    "name_en": "Nabhaniyah (Qassim)",
+    "administrationId": 33,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 107,
+    "name": "عيون الجواء (القصيم)",
+    "name_en": "Oyoun Al-Jawa (Al-Qassim)",
+    "administrationId": 33,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 108,
+    "name": "الحسو( المدينة )",
+    "name_en": "Al-Hasso (Al-Madeenah)",
+    "administrationId": 34,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 109,
+    "name": "الحناكية ( المدينة )",
+    "name_en": "Hanakia (Al-Madeenah)",
+    "administrationId": 34,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 110,
+    "name": "بدر( المدينة )",
+    "name_en": "Badr (Al-Madeenah)",
+    "administrationId": 34,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 111,
+    "name": "خيبر( المدينة )",
+    "name_en": "Khyber (Al-Madeenah)",
+    "administrationId": 34,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 112,
+    "name": "وادي الفرع ( المدينة )",
+    "name_en": "Wadi al-Fara' (Al-Madeenah)",
+    "administrationId": 34,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 113,
+    "name": "البدع ( تبوك )",
+    "name_en": "Al Bidda (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 114,
+    "name": "الوجه ( تبوك )",
+    "name_en": "Wajh (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 115,
+    "name": "املج ( تبوك )",
+    "name_en": "Umluj (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 116,
+    "name": "تبوك ( تبوك )",
+    "name_en": "Tabuk (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 117,
+    "name": "تيماء ( تبوك )",
+    "name_en": "Taima (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 118,
+    "name": "حقل ( تبوك )",
+    "name_en": "Haql (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 119,
+    "name": "شرق ضباء ( تبوك )",
+    "name_en": "East Duba (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 120,
+    "name": "ضباء ( تبوك )",
+    "name_en": "Duba (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 121,
+    "name": "قرى وهجر تبوك ( تبوك )",
+    "name_en": "The villages and deserts of Tabuk (Tabuk)",
+    "administrationId": 35,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 122,
+    "name": "ابو عريش ( جازان )",
+    "name_en": "Abu Arish (Jazan)",
+    "administrationId": 36,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 123,
+    "name": "العارضة ( جازان )",
+    "name_en": "Al Ardah (Jazan)",
+    "administrationId": 36,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 124,
+    "name": "المسارحة والحرث (جازان)",
+    "name_en": "Al-Masarha and Al-Hilal (Jazan)",
+    "administrationId": 36,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 125,
+    "name": "صامطة ( جازان )",
+    "name_en": "Samtah (Jazan)",
+    "administrationId": 36,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 126,
+    "name": "فرسان ( جازان )",
+    "name_en": "Farasan (Jazan)",
+    "administrationId": 36,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 127,
+    "name": "الاجفر( حائل )",
+    "name_en": "Al-Ajr (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 128,
+    "name": "الحائط (حائل)",
+    "name_en": "Al-Hayit (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 129,
+    "name": "الحليفة ( حائل )",
+    "name_en": "Al-Haleefah (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 130,
+    "name": "الشملى (حائل)",
+    "name_en": "Al-Shamla (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 131,
+    "name": "الغزالة (حائل)",
+    "name_en": "Al Ghazala (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 132,
+    "name": "تربة ( حائل )",
+    "name_en": "Turbah (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 133,
+    "name": "موقق (حائل)",
+    "name_en": "Mogag (Hail)",
+    "administrationId": 37,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 134,
+    "name": "أحد رفيدة ( عسير)",
+    "name_en": "Uhud Rufaida (Asir)",
+    "administrationId": 38,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 135,
+    "name": "بللحمر( عسير )",
+    "name_en": "Balhamer (Asir)",
+    "administrationId": 38,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 136,
+    "name": "خميس مشيط ( عسير )",
+    "name_en": "Khamis Mushait (Asir)",
+    "administrationId": 38,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 137,
+    "name": "طريب والعرين (عسير)",
+    "name_en": "Tarib and Al Areen (Asir)",
+    "administrationId": 38,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 138,
+    "name": "وادي بن هشبل ( عسير )",
+    "name_en": "Wadi Bin Hashbal (Asir)",
+    "administrationId": 38,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 139,
+    "name": "الجموم (مكة المكرمة)",
+    "name_en": "Jamoum (Mecca)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 140,
+    "name": "الشعيبة ( مكة المكرمة )",
+    "name_en": "Shuaiba (Mecca)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 141,
+    "name": "الكامل (مكة المكرمة)",
+    "name_en": "Al-Kamil (Mecca)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 142,
+    "name": "اليمانية والقفيف ( مكة المكرمة )",
+    "name_en": "Al-Yamaniah and Al-Qafeef (Makkah)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 143,
+    "name": "بحرة (مكة المكرمة)",
+    "name_en": "Bahra (Mecca)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 144,
+    "name": "مدركة ( مكة المكرمة )",
+    "name_en": "Madrakah (Mecca)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 145,
+    "name": "مكة المكرمة (مكة المكرمة)",
+    "name_en": "Mecca (Mecca)",
+    "administrationId": 39,
+    "jobPosition_1": false,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 146,
+    "name": "بدر الجنوب وعاكفة (نجران)",
+    "name_en": "Badr Al-Janoub and Akfa (Najran)",
+    "administrationId": 40,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": true,
+    "jobPosition_4": false
+  },
+  {
+    "id": 147,
+    "name": "حبونا وثار(نجران)",
+    "name_en": "Habuna Wathar (Najran)",
+    "administrationId": 40,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  },
+  {
+    "id": 148,
+    "name": "خباش و الحصينية (نجران)",
+    "name_en": "Khabbash and Husainiya (Najran)",
+    "administrationId": 40,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": false,
+    "jobPosition_4": true
+  },
+  {
+    "id": 149,
+    "name": "نجران (نجران)",
+    "name_en": "Najran (Najran)",
+    "administrationId": 40,
+    "jobPosition_1": true,
+    "jobPosition_2": false,
+    "jobPosition_3": false,
+    "jobPosition_4": false
+  },
+  {
+    "id": 150,
+    "name": "يدمة (نجران)",
+    "name_en": "Yadmah (Najran)",
+    "administrationId": 40,
+    "jobPosition_1": true,
+    "jobPosition_2": true,
+    "jobPosition_3": true,
+    "jobPosition_4": true
+  }
+]

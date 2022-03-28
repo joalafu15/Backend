@@ -1,0 +1,27 @@
+[
+  {
+    "setting": "globalMessage",
+    "value": "Default Instructions",
+    "active": false
+  },
+  {
+    "setting": "lockPhase1",
+    "value": "Lock phase 1",
+    "active": false
+  },
+  {
+    "setting": "lockPhase2",
+    "value": "Lock phase 2",
+    "active": false
+  },
+  {
+    "setting": "lockPhase3",
+    "value": "Lock phase 3",
+    "active": false
+  },
+  {
+    "setting": "onboardingInstructions",
+    "value": "<p dir=\"rtl\"><strong>&nbsp; تهانينا لك!</strong> <br /><br />اكتملت عملية الترشيح، وتم تعيينك في المدرسة: {{schoolName}} في القطاع: {{sectorName}} لوظيفة: {{jobTitle}}. <br />الرجاء التوجه للمدرسة لاستكمال عمليات المباشرة.<br /><br />اسم قائدة المدرسة: {{schoolManagerName}}<br />رقم هاتف قائدة المدرسة: {{schoolManagerPhoneNumber}}</p>",
+    "active": false
+  }
+]

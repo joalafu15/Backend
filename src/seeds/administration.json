@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "إدارة التعليم بمحافظة الافلاج",
+    "name_en": "Department of Education in Al-Aflaj Governorate"
+  },
+  {
+    "id": 2,
+    "name": "إدارة التعليم بمحافظة الخرج",
+    "name_en": "Department of Education in Al-Kharj Governorate"
+  },
+  {
+    "id": 3,
+    "name": "إدارة التعليم بمحافظة الدوادمي",
+    "name_en": "Department of Education in Dawadmi Governorate"
+  },
+  {
+    "id": 4,
+    "name": "إدارة التعليم بمحافظة الرس",
+    "name_en": "Department of Education in Al-Rass Governorate"
+  },
+  {
+    "id": 5,
+    "name": "إدارة التعليم بمحافظة الزلفي",
+    "name_en": "Department of Education in Zulfi Governorate"
+  },
+  {
+    "id": 6,
+    "name": "إدارة التعليم بمحافظة العلا",
+    "name_en": "Department of Education in Al-Ula Governorate"
+  },
+  {
+    "id": 7,
+    "name": "إدارة التعليم بمحافظة القريات",
+    "name_en": "Department of Education in Qurayyat Governorate"
+  },
+  {
+    "id": 8,
+    "name": "إدارة التعليم بمحافظة القنفذة",
+    "name_en": "Department of Education in Al-Qunfudhah Governorate"
+  },
+  {
+    "id": 9,
+    "name": "إدارة التعليم بمحافظة القويعية",
+    "name_en": "Department of Education in Al-Quway'iyah Governorate"
+  },
+  {
+    "id": 10,
+    "name": "إدارة التعليم بمحافظة الليث",
+    "name_en": "Department of Education in Al-Leith Governorate"
+  },
+  {
+    "id": 11,
+    "name": "إدارة التعليم بمحافظة المجمعة",
+    "name_en": "Department of Education in Majmaah Governorate"
+  },
+  {
+    "id": 12,
+    "name": "إدارة التعليم بمحافظة المخواة",
+    "name_en": "Department of Education in Al-Makhwah Governorate"
+  },
+  {
+    "id": 13,
+    "name": "إدارة التعليم بمحافظة المهد",
+    "name_en": "Department of Education in Al-Mahd Governorate"
+  },
+  {
+    "id": 14,
+    "name": "إدارة التعليم بمحافظة النماص",
+    "name_en": "Department of Education in Al-Namas Governorate"
+  },
+  {
+    "id": 15,
+    "name": "إدارة التعليم بمحافظة بيشة",
+    "name_en": "Department of Education in Bisha Governorate"
+  },
+  {
+    "id": 16,
+    "name": "إدارة التعليم بمحافظة حفر الباطن",
+    "name_en": "Department of Education in Hafar Al-Batin Governorate"
+  },
+  {
+    "id": 17,
+    "name": "إدارة التعليم بمحافظة رجال ألمع",
+    "name_en": "Department of Education in Rijal Almaa Governorate"
+  },
+  {
+    "id": 18,
+    "name": "إدارة التعليم بمحافظة سراة عبيدة",
+    "name_en": "Department of Education in Sarat Abidah Governorate"
+  },
+  {
+    "id": 19,
+    "name": "إدارة التعليم بمحافظة شرورة",
+    "name_en": "Department of Education in Sharurah Governorate"
+  },
+  {
+    "id": 20,
+    "name": "إدارة التعليم بمحافظة صبيا",
+    "name_en": "Department of Education in Sabya Governorate"
+  },
+  {
+    "id": 21,
+    "name": "إدارة التعليم بمحافظة ظهران الجنوب",
+    "name_en": "Department of Education in Dhahran Al-Janoub Governorate"
+  },
+  {
+    "id": 22,
+    "name": "إدارة التعليم بمحافظة محايل عسير",
+    "name_en": "Department of Education in Mahayel Asir Governorate"
+  },
+  {
+    "id": 23,
+    "name": "إدارة التعليم بمحافظة وادي الدواسر",
+    "name_en": "Department of Education in Wadi Al Dawasir Governorate"
+  },
+  {
+    "id": 24,
+    "name": "إدارة التعليم بمحافظة ينبع",
+    "name_en": "Department of Education in Yanbu Governorate"
+  },
+  {
+    "id": 25,
+    "name": "إدارة التعليم بمحافظتي حوطة بني تميم والحريق",
+    "name_en": "Department of Education in the governorates of Hotat Bani Tamim and Al-Hareq"
+  },
+  {
+    "id": 26,
+    "name": "الإدارة العامة للتعليم بالمنطقة الشرقية",
+    "name_en": "General Administration of Education in the Eastern Province"
+  },
+  {
+    "id": 27,
+    "name": "الإدارة العامة للتعليم بمحافظة الاحساء",
+    "name_en": "General Administration of Education in Al-Ahsa Governorate"
+  },
+  {
+    "id": 28,
+    "name": "الإدارة العامة للتعليم بمحافظة الطائف",
+    "name_en": "General Administration of Education in Taif Governorate"
+  },
+  {
+    "id": 29,
+    "name": "الإدارة العامة للتعليم بمحافظة جدة",
+    "name_en": "General Administration of Education in Jeddah"
+  },
+  {
+    "id": 30,
+    "name": "الإدارة العامة للتعليم بمنطقة الباحة",
+    "name_en": "General Administration of Education in Al-Baha Region"
+  },
+  {
+    "id": 31,
+    "name": "الإدارة العامة للتعليم بمنطقة الجوف",
+    "name_en": "General Administration of Education in Al-Jouf Region"
+  },
+  {
+    "id": 32,
+    "name": "الإدارة العامة للتعليم بمنطقة الحدود الشمالية",
+    "name_en": "General Administration of Education in the Northern Border Region"
+  },
+  {
+    "id": 33,
+    "name": "الإدارة العامة للتعليم بمنطقة القصيم",
+    "name_en": "General Administration of Education in Qassim Region"
+  },
+  {
+    "id": 34,
+    "name": "الإدارة العامة للتعليم بمنطقة المدينة المنورة",
+    "name_en": "General Administration of Education in Al-Madinah Al-Munawwarah Region"
+  },
+  {
+    "id": 35,
+    "name": "الإدارة العامة للتعليم بمنطقة تبوك",
+    "name_en": "General Administration of Education in Tabuk Region"
+  },
+  {
+    "id": 36,
+    "name": "الإدارة العامة للتعليم بمنطقة جازان",
+    "name_en": "General Administration of Education in Jazan Region"
+  },
+  {
+    "id": 37,
+    "name": "الإدارة العامة للتعليم بمنطقة حائل",
+    "name_en": "General Administration of Education in Hail Region"
+  },
+  {
+    "id": 38,
+    "name": "الإدارة العامة للتعليم بمنطقة عسير",
+    "name_en": "General Administration of Education in the Asir region"
+  },
+  {
+    "id": 39,
+    "name": "الإدارة العامة للتعليم بمنطقة مكة المكرمة",
+    "name_en": "General Administration of Education in Makkah Al Mukarramah Region"
+  },
+  {
+    "id": 40,
+    "name": "الإدارة العامة للتعليم بمنطقة نجران",
+    "name_en": "General Administration of Education in Najran Region"
+  }
+]
